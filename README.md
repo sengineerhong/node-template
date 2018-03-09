@@ -15,4 +15,4 @@
     first: run "npm run build" on Dev env for repack all sass and js sources to compressed format
     second: run "npm start" for serve on prod env
 ```
-test
+test2
